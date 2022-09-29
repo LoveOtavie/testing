@@ -12,3 +12,5 @@
 1. Use git checkout -b <name_of_new_branch>
 
 ### Note: Any change on the new branch will not affect the Local Master Branch
+
+I will delete this file on Branching
